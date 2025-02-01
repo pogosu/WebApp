@@ -104,7 +104,7 @@ app.MapPatch("/change-password", [Authorize] (string oldPassword, string newPass
     return Results.Ok("Пароль успешно изменен");
 });
 
-const string DB_PATH = "/home/ilya/Рабочий стол/App (1)/users.db";
+const string DB_PATH = "/home/ilya/Документы/WebApp/users.db";
 if (!db.ConnectToDB(DB_PATH)) {
     Console.WriteLine("Failed to connect to db " + DB_PATH);
     Console.WriteLine("ShutDown!");
@@ -172,7 +172,7 @@ public class GronsfeldCipher
                 bool isUpper = char.IsUpper(c);
                 char letter = char.ToLower(c);
                 int shift = key[keyIndex % key.Length] - '0';
-                char encryptedLetter = (char)((((letter - 'a') + shift) % 26 + 26) % 26 + 'a');
+                char encryptedLetter = EnglishAlphabetLower[(EnglishAlphabetLower.IndexOf(letter) + shift) % EnglishAlphabetLower.Length];
 
                 result += isUpper ? char.ToUpper(encryptedLetter) : encryptedLetter;
                 keyIndex++;
@@ -182,7 +182,7 @@ public class GronsfeldCipher
                 bool isUpper = char.IsUpper(c);
                 char letter = char.ToLower(c);
                 int shift = key[keyIndex % key.Length] - '0';
-                char encryptedLetter = (char)((((letter - 'а') + shift) % 33 + 33) % 33 + 'а');
+                char encryptedLetter = RussianAlphabetLower[(RussianAlphabetLower.IndexOf(letter) + shift) % RussianAlphabetLower.Length];
 
                 result += isUpper ? char.ToUpper(encryptedLetter) : encryptedLetter;
                 keyIndex++;
@@ -195,7 +195,6 @@ public class GronsfeldCipher
 
         return result;
     }
-
     // Метод дешифрования
     public string Decrypt(string text, string key)
     {
@@ -209,7 +208,8 @@ public class GronsfeldCipher
                 bool isUpper = char.IsUpper(c);
                 char letter = char.ToLower(c);
                 int shift = key[keyIndex % key.Length] - '0';
-                char decryptedLetter = (char)((((letter - 'a') - shift + 26) % 26 + 26) % 26 + 'a');
+                int newIndex = (EnglishAlphabetLower.IndexOf(letter) - shift + EnglishAlphabetLower.Length) % EnglishAlphabetLower.Length;
+                char decryptedLetter = EnglishAlphabetLower[newIndex];
 
                 result += isUpper ? char.ToUpper(decryptedLetter) : decryptedLetter;
                 keyIndex++;
@@ -219,7 +219,8 @@ public class GronsfeldCipher
                 bool isUpper = char.IsUpper(c);
                 char letter = char.ToLower(c);
                 int shift = key[keyIndex % key.Length] - '0';
-                char decryptedLetter = (char)((((letter - 'а') - shift + 33) % 33 + 33) % 33 + 'а');
+                int newIndex = (RussianAlphabetLower.IndexOf(letter) - shift + RussianAlphabetLower.Length) % RussianAlphabetLower.Length;
+                char decryptedLetter = RussianAlphabetLower[newIndex];
 
                 result += isUpper ? char.ToUpper(decryptedLetter) : decryptedLetter;
                 keyIndex++;
@@ -232,6 +233,7 @@ public class GronsfeldCipher
 
         return result;
     }
+
 }
 
 

@@ -40,3 +40,18 @@ c:/Users/Ilya/Desktop/1/App (1)/Client/obj/Debug/net8.0/ref/Client.dll
 /home/ilya/Рабочий стол/App (1)/Client/obj/Debug/net8.0/Client.pdb
 /home/ilya/Рабочий стол/App (1)/Client/obj/Debug/net8.0/Client.genruntimeconfig.cache
 /home/ilya/Рабочий стол/App (1)/Client/obj/Debug/net8.0/ref/Client.dll
+/home/ilya/Документы/WebApp/Client/bin/Debug/net8.0/Client
+/home/ilya/Документы/WebApp/Client/bin/Debug/net8.0/Client.deps.json
+/home/ilya/Документы/WebApp/Client/bin/Debug/net8.0/Client.runtimeconfig.json
+/home/ilya/Документы/WebApp/Client/bin/Debug/net8.0/Client.dll
+/home/ilya/Документы/WebApp/Client/bin/Debug/net8.0/Client.pdb
+/home/ilya/Документы/WebApp/Client/obj/Debug/net8.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilya/Документы/WebApp/Client/obj/Debug/net8.0/Client.AssemblyInfoInputs.cache
+/home/ilya/Документы/WebApp/Client/obj/Debug/net8.0/Client.AssemblyInfo.cs
+/home/ilya/Документы/WebApp/Client/obj/Debug/net8.0/Client.csproj.CoreCompileInputs.cache
+/home/ilya/Документы/WebApp/Client/obj/Debug/net8.0/Client.sourcelink.json
+/home/ilya/Документы/WebApp/Client/obj/Debug/net8.0/Client.dll
+/home/ilya/Документы/WebApp/Client/obj/Debug/net8.0/refint/Client.dll
+/home/ilya/Документы/WebApp/Client/obj/Debug/net8.0/Client.pdb
+/home/ilya/Документы/WebApp/Client/obj/Debug/net8.0/Client.genruntimeconfig.cache
+/home/ilya/Документы/WebApp/Client/obj/Debug/net8.0/ref/Client.dll
