@@ -1,0 +1,42 @@
+/home/ilya/Рабочий стол/App/Client/bin/Debug/net8.0/Client
+/home/ilya/Рабочий стол/App/Client/bin/Debug/net8.0/Client.deps.json
+/home/ilya/Рабочий стол/App/Client/bin/Debug/net8.0/Client.runtimeconfig.json
+/home/ilya/Рабочий стол/App/Client/bin/Debug/net8.0/Client.dll
+/home/ilya/Рабочий стол/App/Client/bin/Debug/net8.0/Client.pdb
+/home/ilya/Рабочий стол/App/Client/obj/Debug/net8.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilya/Рабочий стол/App/Client/obj/Debug/net8.0/Client.AssemblyInfoInputs.cache
+/home/ilya/Рабочий стол/App/Client/obj/Debug/net8.0/Client.AssemblyInfo.cs
+/home/ilya/Рабочий стол/App/Client/obj/Debug/net8.0/Client.csproj.CoreCompileInputs.cache
+/home/ilya/Рабочий стол/App/Client/obj/Debug/net8.0/Client.dll
+/home/ilya/Рабочий стол/App/Client/obj/Debug/net8.0/refint/Client.dll
+/home/ilya/Рабочий стол/App/Client/obj/Debug/net8.0/Client.pdb
+/home/ilya/Рабочий стол/App/Client/obj/Debug/net8.0/Client.genruntimeconfig.cache
+/home/ilya/Рабочий стол/App/Client/obj/Debug/net8.0/ref/Client.dll
+c:/Users/Ilya/Desktop/1/App (1)/Client/bin/Debug/net8.0/Client.exe
+c:/Users/Ilya/Desktop/1/App (1)/Client/bin/Debug/net8.0/Client.deps.json
+c:/Users/Ilya/Desktop/1/App (1)/Client/bin/Debug/net8.0/Client.runtimeconfig.json
+c:/Users/Ilya/Desktop/1/App (1)/Client/bin/Debug/net8.0/Client.dll
+c:/Users/Ilya/Desktop/1/App (1)/Client/bin/Debug/net8.0/Client.pdb
+c:/Users/Ilya/Desktop/1/App (1)/Client/obj/Debug/net8.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+c:/Users/Ilya/Desktop/1/App (1)/Client/obj/Debug/net8.0/Client.AssemblyInfoInputs.cache
+c:/Users/Ilya/Desktop/1/App (1)/Client/obj/Debug/net8.0/Client.AssemblyInfo.cs
+c:/Users/Ilya/Desktop/1/App (1)/Client/obj/Debug/net8.0/Client.csproj.CoreCompileInputs.cache
+c:/Users/Ilya/Desktop/1/App (1)/Client/obj/Debug/net8.0/Client.dll
+c:/Users/Ilya/Desktop/1/App (1)/Client/obj/Debug/net8.0/refint/Client.dll
+c:/Users/Ilya/Desktop/1/App (1)/Client/obj/Debug/net8.0/Client.pdb
+c:/Users/Ilya/Desktop/1/App (1)/Client/obj/Debug/net8.0/Client.genruntimeconfig.cache
+c:/Users/Ilya/Desktop/1/App (1)/Client/obj/Debug/net8.0/ref/Client.dll
+/home/ilya/Рабочий стол/App (1)/Client/bin/Debug/net8.0/Client
+/home/ilya/Рабочий стол/App (1)/Client/bin/Debug/net8.0/Client.deps.json
+/home/ilya/Рабочий стол/App (1)/Client/bin/Debug/net8.0/Client.runtimeconfig.json
+/home/ilya/Рабочий стол/App (1)/Client/bin/Debug/net8.0/Client.dll
+/home/ilya/Рабочий стол/App (1)/Client/bin/Debug/net8.0/Client.pdb
+/home/ilya/Рабочий стол/App (1)/Client/obj/Debug/net8.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilya/Рабочий стол/App (1)/Client/obj/Debug/net8.0/Client.AssemblyInfoInputs.cache
+/home/ilya/Рабочий стол/App (1)/Client/obj/Debug/net8.0/Client.AssemblyInfo.cs
+/home/ilya/Рабочий стол/App (1)/Client/obj/Debug/net8.0/Client.csproj.CoreCompileInputs.cache
+/home/ilya/Рабочий стол/App (1)/Client/obj/Debug/net8.0/Client.dll
+/home/ilya/Рабочий стол/App (1)/Client/obj/Debug/net8.0/refint/Client.dll
+/home/ilya/Рабочий стол/App (1)/Client/obj/Debug/net8.0/Client.pdb
+/home/ilya/Рабочий стол/App (1)/Client/obj/Debug/net8.0/Client.genruntimeconfig.cache
+/home/ilya/Рабочий стол/App (1)/Client/obj/Debug/net8.0/ref/Client.dll
